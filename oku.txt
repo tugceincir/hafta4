@@ -1,0 +1,1 @@
+Scapy kütüphanesini ve özel bir sınıf olan SpooferARP’yi kullanarak ARP Spoofing (önbellek zehirleme saldırısı) gerçekleştiriyor.
